@@ -1,0 +1,12 @@
+/.settings/
+/.project
+/target/
+/.idea/
+/*.iml
+/.flattened-pom.xml
+/.vscode/
+
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
